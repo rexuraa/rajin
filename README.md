@@ -1,6 +1,6 @@
 <!-- Banner or Logo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajin!;Welcome+to+my+code+zone!+%F0%9F%AB%A0;404%3A+Syntax+Error+in+My+Life+%F0%9F%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajin!;Welcome+to+my+code+zone!+%F0%9F%AB%A0;404%3A+Syntax+Error+in+My+Life+" alt="Typing SVG" />
 </p>
 
 ---
